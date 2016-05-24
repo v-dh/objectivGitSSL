@@ -1,24 +1,26 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "DE2646290BDFCDBBA9BF874E0EEDB7E29546CD5E",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8999BE098951F26B776CE546A290ABB673B99DB9",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "95438028B10BBB846574013D29F154A00556A9D1" : 0,
-    "65E71B0513DBFB09F39CEEF3A8B769CB93E66994" : 0,
+    "8999BE098951F26B776CE546A290ABB673B99DB9" : 0,
     "D0725CAC6FF2D66F2C83C2C48DC12106D42DAA64" : 0,
     "70783EE7218D87FCBAABD7787F6E3A25EFFAFB2F" : 0,
-    "DE2646290BDFCDBBA9BF874E0EEDB7E29546CD5E" : 0,
-    "E084C86B03F81D63323C9E7510697EA528A758C7" : 0
+    "95438028B10BBB846574013D29F154A00556A9D1" : 0,
+    "E084C86B03F81D63323C9E7510697EA528A758C7" : 0,
+    "65E71B0513DBFB09F39CEEF3A8B769CB93E66994" : 0,
+    "DE2646290BDFCDBBA9BF874E0EEDB7E29546CD5E" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2F30729D-57C5-4F3A-889B-ACF16A3D26A8",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "95438028B10BBB846574013D29F154A00556A9D1" : "objective-git\/Carthage\/Checkouts\/Quick\/Externals\/Nimble\/",
-    "65E71B0513DBFB09F39CEEF3A8B769CB93E66994" : "objective-git\/Carthage\/Checkouts\/ZipArchive\/",
+    "8999BE098951F26B776CE546A290ABB673B99DB9" : "objectivGitSSL\/",
     "D0725CAC6FF2D66F2C83C2C48DC12106D42DAA64" : "objective-git\/Carthage\/Checkouts\/Quick\/",
     "70783EE7218D87FCBAABD7787F6E3A25EFFAFB2F" : "objective-git\/External\/libgit2\/",
-    "DE2646290BDFCDBBA9BF874E0EEDB7E29546CD5E" : "objective-git\/",
-    "E084C86B03F81D63323C9E7510697EA528A758C7" : "objective-git\/Carthage\/Checkouts\/xcconfigs\/"
+    "95438028B10BBB846574013D29F154A00556A9D1" : "objective-git\/Carthage\/Checkouts\/Quick\/Externals\/Nimble\/",
+    "E084C86B03F81D63323C9E7510697EA528A758C7" : "objective-git\/Carthage\/Checkouts\/xcconfigs\/",
+    "65E71B0513DBFB09F39CEEF3A8B769CB93E66994" : "objective-git\/Carthage\/Checkouts\/ZipArchive\/",
+    "DE2646290BDFCDBBA9BF874E0EEDB7E29546CD5E" : "objective-git\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "ObjectiveGitFramework",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
@@ -33,6 +35,11 @@
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/libgit2\/libgit2.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "70783EE7218D87FCBAABD7787F6E3A25EFFAFB2F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:v-dh\/objectivGitSSL.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8999BE098951F26B776CE546A290ABB673B99DB9"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Quick\/Nimble.git",

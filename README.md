@@ -1,3 +1,8 @@
+# ObjectiveGitSSL
+
+This repo is just a fork of ObjectivGit for tests about git and SSL mutual auth client.
+
+
 # ObjectiveGit
 
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
