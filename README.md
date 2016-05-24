@@ -1,6 +1,6 @@
 # ObjectiveGitSSL
 
-This repo is just a fork of ObjectivGit for tests about git and SSL mutual auth client.
+This repo is just a fork of [ObjectiveGit](https://github.com/libgit2/objective-git) to test about git and SSL mutual auth client.
 
 
 # ObjectiveGit
