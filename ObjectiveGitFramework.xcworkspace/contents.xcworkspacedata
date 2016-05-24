@@ -1,0 +1,1102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:External/libgit2/include"
+      name = "include">
+      <Group
+         location = "group:git2"
+         name = "git2">
+         <FileRef
+            location = "group:annotated_commit.h">
+         </FileRef>
+         <FileRef
+            location = "group:attr.h">
+         </FileRef>
+         <FileRef
+            location = "group:blame.h">
+         </FileRef>
+         <FileRef
+            location = "group:blob.h">
+         </FileRef>
+         <FileRef
+            location = "group:branch.h">
+         </FileRef>
+         <FileRef
+            location = "group:buffer.h">
+         </FileRef>
+         <FileRef
+            location = "group:checkout.h">
+         </FileRef>
+         <FileRef
+            location = "group:cherrypick.h">
+         </FileRef>
+         <FileRef
+            location = "group:clone.h">
+         </FileRef>
+         <FileRef
+            location = "group:commit.h">
+         </FileRef>
+         <FileRef
+            location = "group:common.h">
+         </FileRef>
+         <FileRef
+            location = "group:config.h">
+         </FileRef>
+         <FileRef
+            location = "group:cred_helpers.h">
+         </FileRef>
+         <FileRef
+            location = "group:describe.h">
+         </FileRef>
+         <FileRef
+            location = "group:diff.h">
+         </FileRef>
+         <FileRef
+            location = "group:errors.h">
+         </FileRef>
+         <FileRef
+            location = "group:filter.h">
+         </FileRef>
+         <FileRef
+            location = "group:global.h">
+         </FileRef>
+         <FileRef
+            location = "group:graph.h">
+         </FileRef>
+         <FileRef
+            location = "group:ignore.h">
+         </FileRef>
+         <FileRef
+            location = "group:index.h">
+         </FileRef>
+         <FileRef
+            location = "group:indexer.h">
+         </FileRef>
+         <FileRef
+            location = "group:inttypes.h">
+         </FileRef>
+         <FileRef
+            location = "group:merge.h">
+         </FileRef>
+         <FileRef
+            location = "group:message.h">
+         </FileRef>
+         <FileRef
+            location = "group:net.h">
+         </FileRef>
+         <FileRef
+            location = "group:notes.h">
+         </FileRef>
+         <FileRef
+            location = "group:object.h">
+         </FileRef>
+         <FileRef
+            location = "group:odb.h">
+         </FileRef>
+         <FileRef
+            location = "group:odb_backend.h">
+         </FileRef>
+         <FileRef
+            location = "group:oid.h">
+         </FileRef>
+         <FileRef
+            location = "group:oidarray.h">
+         </FileRef>
+         <FileRef
+            location = "group:pack.h">
+         </FileRef>
+         <FileRef
+            location = "group:patch.h">
+         </FileRef>
+         <FileRef
+            location = "group:pathspec.h">
+         </FileRef>
+         <FileRef
+            location = "group:rebase.h">
+         </FileRef>
+         <FileRef
+            location = "group:refdb.h">
+         </FileRef>
+         <FileRef
+            location = "group:reflog.h">
+         </FileRef>
+         <FileRef
+            location = "group:refs.h">
+         </FileRef>
+         <FileRef
+            location = "group:refspec.h">
+         </FileRef>
+         <FileRef
+            location = "group:remote.h">
+         </FileRef>
+         <FileRef
+            location = "group:repository.h">
+         </FileRef>
+         <FileRef
+            location = "group:reset.h">
+         </FileRef>
+         <FileRef
+            location = "group:revert.h">
+         </FileRef>
+         <FileRef
+            location = "group:revparse.h">
+         </FileRef>
+         <FileRef
+            location = "group:revwalk.h">
+         </FileRef>
+         <FileRef
+            location = "group:signature.h">
+         </FileRef>
+         <FileRef
+            location = "group:stash.h">
+         </FileRef>
+         <FileRef
+            location = "group:status.h">
+         </FileRef>
+         <FileRef
+            location = "group:stdint.h">
+         </FileRef>
+         <FileRef
+            location = "group:strarray.h">
+         </FileRef>
+         <FileRef
+            location = "group:submodule.h">
+         </FileRef>
+         <Group
+            location = "group:sys"
+            name = "sys">
+            <FileRef
+               location = "group:commit.h">
+            </FileRef>
+            <FileRef
+               location = "group:config.h">
+            </FileRef>
+            <FileRef
+               location = "group:diff.h">
+            </FileRef>
+            <FileRef
+               location = "group:filter.h">
+            </FileRef>
+            <FileRef
+               location = "group:hashsig.h">
+            </FileRef>
+            <FileRef
+               location = "group:index.h">
+            </FileRef>
+            <FileRef
+               location = "group:mempack.h">
+            </FileRef>
+            <FileRef
+               location = "group:odb_backend.h">
+            </FileRef>
+            <FileRef
+               location = "group:openssl.h">
+            </FileRef>
+            <FileRef
+               location = "group:refdb_backend.h">
+            </FileRef>
+            <FileRef
+               location = "group:reflog.h">
+            </FileRef>
+            <FileRef
+               location = "group:refs.h">
+            </FileRef>
+            <FileRef
+               location = "group:repository.h">
+            </FileRef>
+            <FileRef
+               location = "group:stream.h">
+            </FileRef>
+            <FileRef
+               location = "group:transport.h">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:tag.h">
+         </FileRef>
+         <FileRef
+            location = "group:trace.h">
+         </FileRef>
+         <FileRef
+            location = "group:transaction.h">
+         </FileRef>
+         <FileRef
+            location = "group:transport.h">
+         </FileRef>
+         <FileRef
+            location = "group:tree.h">
+         </FileRef>
+         <FileRef
+            location = "group:types.h">
+         </FileRef>
+         <FileRef
+            location = "group:version.h">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:git2.h">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:External/libgit2/src"
+      name = "src">
+      <FileRef
+         location = "group:annotated_commit.c">
+      </FileRef>
+      <FileRef
+         location = "group:annotated_commit.h">
+      </FileRef>
+      <FileRef
+         location = "group:array.h">
+      </FileRef>
+      <FileRef
+         location = "group:attr.c">
+      </FileRef>
+      <FileRef
+         location = "group:attr.h">
+      </FileRef>
+      <FileRef
+         location = "group:attr_file.c">
+      </FileRef>
+      <FileRef
+         location = "group:attr_file.h">
+      </FileRef>
+      <FileRef
+         location = "group:attrcache.c">
+      </FileRef>
+      <FileRef
+         location = "group:attrcache.h">
+      </FileRef>
+      <FileRef
+         location = "group:bitvec.h">
+      </FileRef>
+      <FileRef
+         location = "group:blame.c">
+      </FileRef>
+      <FileRef
+         location = "group:blame.h">
+      </FileRef>
+      <FileRef
+         location = "group:blame_git.c">
+      </FileRef>
+      <FileRef
+         location = "group:blame_git.h">
+      </FileRef>
+      <FileRef
+         location = "group:blob.c">
+      </FileRef>
+      <FileRef
+         location = "group:blob.h">
+      </FileRef>
+      <FileRef
+         location = "group:branch.c">
+      </FileRef>
+      <FileRef
+         location = "group:branch.h">
+      </FileRef>
+      <FileRef
+         location = "group:buf_text.c">
+      </FileRef>
+      <FileRef
+         location = "group:buf_text.h">
+      </FileRef>
+      <FileRef
+         location = "group:buffer.c">
+      </FileRef>
+      <FileRef
+         location = "group:buffer.h">
+      </FileRef>
+      <FileRef
+         location = "group:cache.c">
+      </FileRef>
+      <FileRef
+         location = "group:cache.h">
+      </FileRef>
+      <FileRef
+         location = "group:cc-compat.h">
+      </FileRef>
+      <FileRef
+         location = "group:checkout.c">
+      </FileRef>
+      <FileRef
+         location = "group:checkout.h">
+      </FileRef>
+      <FileRef
+         location = "group:cherrypick.c">
+      </FileRef>
+      <FileRef
+         location = "group:clone.c">
+      </FileRef>
+      <FileRef
+         location = "group:clone.h">
+      </FileRef>
+      <FileRef
+         location = "group:commit.c">
+      </FileRef>
+      <FileRef
+         location = "group:commit.h">
+      </FileRef>
+      <FileRef
+         location = "group:commit_list.c">
+      </FileRef>
+      <FileRef
+         location = "group:commit_list.h">
+      </FileRef>
+      <FileRef
+         location = "group:common.h">
+      </FileRef>
+      <FileRef
+         location = "group:config.c">
+      </FileRef>
+      <FileRef
+         location = "group:config.h">
+      </FileRef>
+      <FileRef
+         location = "group:config_cache.c">
+      </FileRef>
+      <FileRef
+         location = "group:config_file.c">
+      </FileRef>
+      <FileRef
+         location = "group:config_file.h">
+      </FileRef>
+      <FileRef
+         location = "group:crlf.c">
+      </FileRef>
+      <FileRef
+         location = "group:curl_stream.c">
+      </FileRef>
+      <FileRef
+         location = "group:curl_stream.h">
+      </FileRef>
+      <FileRef
+         location = "group:date.c">
+      </FileRef>
+      <FileRef
+         location = "group:delta-apply.c">
+      </FileRef>
+      <FileRef
+         location = "group:delta-apply.h">
+      </FileRef>
+      <FileRef
+         location = "group:delta.c">
+      </FileRef>
+      <FileRef
+         location = "group:delta.h">
+      </FileRef>
+      <FileRef
+         location = "group:describe.c">
+      </FileRef>
+      <FileRef
+         location = "group:diff.c">
+      </FileRef>
+      <FileRef
+         location = "group:diff.h">
+      </FileRef>
+      <FileRef
+         location = "group:diff_driver.c">
+      </FileRef>
+      <FileRef
+         location = "group:diff_driver.h">
+      </FileRef>
+      <FileRef
+         location = "group:diff_file.c">
+      </FileRef>
+      <FileRef
+         location = "group:diff_file.h">
+      </FileRef>
+      <FileRef
+         location = "group:diff_patch.c">
+      </FileRef>
+      <FileRef
+         location = "group:diff_patch.h">
+      </FileRef>
+      <FileRef
+         location = "group:diff_print.c">
+      </FileRef>
+      <FileRef
+         location = "group:diff_stats.c">
+      </FileRef>
+      <FileRef
+         location = "group:diff_tform.c">
+      </FileRef>
+      <FileRef
+         location = "group:diff_xdiff.c">
+      </FileRef>
+      <FileRef
+         location = "group:diff_xdiff.h">
+      </FileRef>
+      <FileRef
+         location = "group:errors.c">
+      </FileRef>
+      <FileRef
+         location = "group:fetch.c">
+      </FileRef>
+      <FileRef
+         location = "group:fetch.h">
+      </FileRef>
+      <FileRef
+         location = "group:fetchhead.c">
+      </FileRef>
+      <FileRef
+         location = "group:fetchhead.h">
+      </FileRef>
+      <FileRef
+         location = "group:filebuf.c">
+      </FileRef>
+      <FileRef
+         location = "group:filebuf.h">
+      </FileRef>
+      <FileRef
+         location = "group:fileops.c">
+      </FileRef>
+      <FileRef
+         location = "group:fileops.h">
+      </FileRef>
+      <FileRef
+         location = "group:filter.c">
+      </FileRef>
+      <FileRef
+         location = "group:filter.h">
+      </FileRef>
+      <FileRef
+         location = "group:fnmatch.c">
+      </FileRef>
+      <FileRef
+         location = "group:fnmatch.h">
+      </FileRef>
+      <FileRef
+         location = "group:global.c">
+      </FileRef>
+      <FileRef
+         location = "group:global.h">
+      </FileRef>
+      <FileRef
+         location = "group:graph.c">
+      </FileRef>
+      <Group
+         location = "group:hash"
+         name = "hash">
+         <FileRef
+            location = "group:hash_common_crypto.h">
+         </FileRef>
+         <FileRef
+            location = "group:hash_generic.c">
+         </FileRef>
+         <FileRef
+            location = "group:hash_generic.h">
+         </FileRef>
+         <FileRef
+            location = "group:hash_openssl.h">
+         </FileRef>
+         <FileRef
+            location = "group:hash_win32.c">
+         </FileRef>
+         <FileRef
+            location = "group:hash_win32.h">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:hash.c">
+      </FileRef>
+      <FileRef
+         location = "group:hash.h">
+      </FileRef>
+      <FileRef
+         location = "group:hashsig.c">
+      </FileRef>
+      <FileRef
+         location = "group:ident.c">
+      </FileRef>
+      <FileRef
+         location = "group:idxmap.h">
+      </FileRef>
+      <FileRef
+         location = "group:ignore.c">
+      </FileRef>
+      <FileRef
+         location = "group:ignore.h">
+      </FileRef>
+      <FileRef
+         location = "group:index.c">
+      </FileRef>
+      <FileRef
+         location = "group:index.h">
+      </FileRef>
+      <FileRef
+         location = "group:indexer.c">
+      </FileRef>
+      <FileRef
+         location = "group:integer.h">
+      </FileRef>
+      <FileRef
+         location = "group:iterator.c">
+      </FileRef>
+      <FileRef
+         location = "group:iterator.h">
+      </FileRef>
+      <FileRef
+         location = "group:khash.h">
+      </FileRef>
+      <FileRef
+         location = "group:map.h">
+      </FileRef>
+      <FileRef
+         location = "group:merge.c">
+      </FileRef>
+      <FileRef
+         location = "group:merge.h">
+      </FileRef>
+      <FileRef
+         location = "group:merge_file.c">
+      </FileRef>
+      <FileRef
+         location = "group:message.c">
+      </FileRef>
+      <FileRef
+         location = "group:message.h">
+      </FileRef>
+      <FileRef
+         location = "group:mwindow.c">
+      </FileRef>
+      <FileRef
+         location = "group:mwindow.h">
+      </FileRef>
+      <FileRef
+         location = "group:netops.c">
+      </FileRef>
+      <FileRef
+         location = "group:netops.h">
+      </FileRef>
+      <FileRef
+         location = "group:notes.c">
+      </FileRef>
+      <FileRef
+         location = "group:notes.h">
+      </FileRef>
+      <FileRef
+         location = "group:object.c">
+      </FileRef>
+      <FileRef
+         location = "group:object.h">
+      </FileRef>
+      <FileRef
+         location = "group:object_api.c">
+      </FileRef>
+      <FileRef
+         location = "group:odb.c">
+      </FileRef>
+      <FileRef
+         location = "group:odb.h">
+      </FileRef>
+      <FileRef
+         location = "group:odb_loose.c">
+      </FileRef>
+      <FileRef
+         location = "group:odb_mempack.c">
+      </FileRef>
+      <FileRef
+         location = "group:odb_pack.c">
+      </FileRef>
+      <FileRef
+         location = "group:offmap.h">
+      </FileRef>
+      <FileRef
+         location = "group:oid.c">
+      </FileRef>
+      <FileRef
+         location = "group:oid.h">
+      </FileRef>
+      <FileRef
+         location = "group:oidarray.c">
+      </FileRef>
+      <FileRef
+         location = "group:oidarray.h">
+      </FileRef>
+      <FileRef
+         location = "group:oidmap.h">
+      </FileRef>
+      <FileRef
+         location = "group:openssl_stream.c">
+      </FileRef>
+      <FileRef
+         location = "group:openssl_stream.h">
+      </FileRef>
+      <FileRef
+         location = "group:pack-objects.c">
+      </FileRef>
+      <FileRef
+         location = "group:pack-objects.h">
+      </FileRef>
+      <FileRef
+         location = "group:pack.c">
+      </FileRef>
+      <FileRef
+         location = "group:pack.h">
+      </FileRef>
+      <FileRef
+         location = "group:path.c">
+      </FileRef>
+      <FileRef
+         location = "group:path.h">
+      </FileRef>
+      <FileRef
+         location = "group:pathspec.c">
+      </FileRef>
+      <FileRef
+         location = "group:pathspec.h">
+      </FileRef>
+      <FileRef
+         location = "group:pool.c">
+      </FileRef>
+      <FileRef
+         location = "group:pool.h">
+      </FileRef>
+      <FileRef
+         location = "group:posix.c">
+      </FileRef>
+      <FileRef
+         location = "group:posix.h">
+      </FileRef>
+      <FileRef
+         location = "group:pqueue.c">
+      </FileRef>
+      <FileRef
+         location = "group:pqueue.h">
+      </FileRef>
+      <FileRef
+         location = "group:push.c">
+      </FileRef>
+      <FileRef
+         location = "group:push.h">
+      </FileRef>
+      <FileRef
+         location = "group:rebase.c">
+      </FileRef>
+      <FileRef
+         location = "group:refdb.c">
+      </FileRef>
+      <FileRef
+         location = "group:refdb.h">
+      </FileRef>
+      <FileRef
+         location = "group:refdb_fs.c">
+      </FileRef>
+      <FileRef
+         location = "group:refdb_fs.h">
+      </FileRef>
+      <FileRef
+         location = "group:reflog.c">
+      </FileRef>
+      <FileRef
+         location = "group:reflog.h">
+      </FileRef>
+      <FileRef
+         location = "group:refs.c">
+      </FileRef>
+      <FileRef
+         location = "group:refs.h">
+      </FileRef>
+      <FileRef
+         location = "group:refspec.c">
+      </FileRef>
+      <FileRef
+         location = "group:refspec.h">
+      </FileRef>
+      <FileRef
+         location = "group:remote.c">
+      </FileRef>
+      <FileRef
+         location = "group:remote.h">
+      </FileRef>
+      <FileRef
+         location = "group:repo_template.h">
+      </FileRef>
+      <FileRef
+         location = "group:repository.c">
+      </FileRef>
+      <FileRef
+         location = "group:repository.h">
+      </FileRef>
+      <FileRef
+         location = "group:reset.c">
+      </FileRef>
+      <FileRef
+         location = "group:revert.c">
+      </FileRef>
+      <FileRef
+         location = "group:revparse.c">
+      </FileRef>
+      <FileRef
+         location = "group:revwalk.c">
+      </FileRef>
+      <FileRef
+         location = "group:revwalk.h">
+      </FileRef>
+      <FileRef
+         location = "group:settings.c">
+      </FileRef>
+      <FileRef
+         location = "group:sha1_lookup.c">
+      </FileRef>
+      <FileRef
+         location = "group:sha1_lookup.h">
+      </FileRef>
+      <FileRef
+         location = "group:signature.c">
+      </FileRef>
+      <FileRef
+         location = "group:signature.h">
+      </FileRef>
+      <FileRef
+         location = "group:socket_stream.c">
+      </FileRef>
+      <FileRef
+         location = "group:socket_stream.h">
+      </FileRef>
+      <FileRef
+         location = "group:sortedcache.c">
+      </FileRef>
+      <FileRef
+         location = "group:sortedcache.h">
+      </FileRef>
+      <FileRef
+         location = "group:stash.c">
+      </FileRef>
+      <FileRef
+         location = "group:status.c">
+      </FileRef>
+      <FileRef
+         location = "group:status.h">
+      </FileRef>
+      <FileRef
+         location = "group:stransport_stream.c">
+      </FileRef>
+      <FileRef
+         location = "group:stransport_stream.h">
+      </FileRef>
+      <FileRef
+         location = "group:stream.h">
+      </FileRef>
+      <FileRef
+         location = "group:strmap.c">
+      </FileRef>
+      <FileRef
+         location = "group:strmap.h">
+      </FileRef>
+      <FileRef
+         location = "group:strnlen.h">
+      </FileRef>
+      <FileRef
+         location = "group:submodule.c">
+      </FileRef>
+      <FileRef
+         location = "group:submodule.h">
+      </FileRef>
+      <FileRef
+         location = "group:sysdir.c">
+      </FileRef>
+      <FileRef
+         location = "group:sysdir.h">
+      </FileRef>
+      <FileRef
+         location = "group:tag.c">
+      </FileRef>
+      <FileRef
+         location = "group:tag.h">
+      </FileRef>
+      <FileRef
+         location = "group:thread-utils.c">
+      </FileRef>
+      <FileRef
+         location = "group:thread-utils.h">
+      </FileRef>
+      <FileRef
+         location = "group:tls_stream.c">
+      </FileRef>
+      <FileRef
+         location = "group:tls_stream.h">
+      </FileRef>
+      <FileRef
+         location = "group:trace.c">
+      </FileRef>
+      <FileRef
+         location = "group:trace.h">
+      </FileRef>
+      <FileRef
+         location = "group:transaction.c">
+      </FileRef>
+      <FileRef
+         location = "group:transaction.h">
+      </FileRef>
+      <FileRef
+         location = "group:transport.c">
+      </FileRef>
+      <Group
+         location = "group:transports"
+         name = "transports">
+         <FileRef
+            location = "group:auth.c">
+         </FileRef>
+         <FileRef
+            location = "group:auth.h">
+         </FileRef>
+         <FileRef
+            location = "group:auth_negotiate.c">
+         </FileRef>
+         <FileRef
+            location = "group:auth_negotiate.h">
+         </FileRef>
+         <FileRef
+            location = "group:cred.c">
+         </FileRef>
+         <FileRef
+            location = "group:cred.h">
+         </FileRef>
+         <FileRef
+            location = "group:cred_helpers.c">
+         </FileRef>
+         <FileRef
+            location = "group:git.c">
+         </FileRef>
+         <FileRef
+            location = "group:http.c">
+         </FileRef>
+         <FileRef
+            location = "group:local.c">
+         </FileRef>
+         <FileRef
+            location = "group:smart.c">
+         </FileRef>
+         <FileRef
+            location = "group:smart.h">
+         </FileRef>
+         <FileRef
+            location = "group:smart_pkt.c">
+         </FileRef>
+         <FileRef
+            location = "group:smart_protocol.c">
+         </FileRef>
+         <FileRef
+            location = "group:ssh.c">
+         </FileRef>
+         <FileRef
+            location = "group:ssh.h">
+         </FileRef>
+         <FileRef
+            location = "group:winhttp.c">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:tree-cache.c">
+      </FileRef>
+      <FileRef
+         location = "group:tree-cache.h">
+      </FileRef>
+      <FileRef
+         location = "group:tree.c">
+      </FileRef>
+      <FileRef
+         location = "group:tree.h">
+      </FileRef>
+      <FileRef
+         location = "group:tsort.c">
+      </FileRef>
+      <Group
+         location = "group:unix"
+         name = "unix">
+         <FileRef
+            location = "group:map.c">
+         </FileRef>
+         <FileRef
+            location = "group:posix.h">
+         </FileRef>
+         <FileRef
+            location = "group:realpath.c">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:userdiff.h">
+      </FileRef>
+      <FileRef
+         location = "group:util.c">
+      </FileRef>
+      <FileRef
+         location = "group:util.h">
+      </FileRef>
+      <FileRef
+         location = "group:vector.c">
+      </FileRef>
+      <FileRef
+         location = "group:vector.h">
+      </FileRef>
+      <Group
+         location = "group:win32"
+         name = "win32">
+         <FileRef
+            location = "group:dir.c">
+         </FileRef>
+         <FileRef
+            location = "group:dir.h">
+         </FileRef>
+         <FileRef
+            location = "group:error.c">
+         </FileRef>
+         <FileRef
+            location = "group:error.h">
+         </FileRef>
+         <FileRef
+            location = "group:findfile.c">
+         </FileRef>
+         <FileRef
+            location = "group:findfile.h">
+         </FileRef>
+         <FileRef
+            location = "group:git2.rc">
+         </FileRef>
+         <FileRef
+            location = "group:map.c">
+         </FileRef>
+         <FileRef
+            location = "group:mingw-compat.h">
+         </FileRef>
+         <FileRef
+            location = "group:msvc-compat.h">
+         </FileRef>
+         <FileRef
+            location = "group:path_w32.c">
+         </FileRef>
+         <FileRef
+            location = "group:path_w32.h">
+         </FileRef>
+         <FileRef
+            location = "group:posix.h">
+         </FileRef>
+         <FileRef
+            location = "group:posix_w32.c">
+         </FileRef>
+         <FileRef
+            location = "group:precompiled.c">
+         </FileRef>
+         <FileRef
+            location = "group:precompiled.h">
+         </FileRef>
+         <FileRef
+            location = "group:pthread.c">
+         </FileRef>
+         <FileRef
+            location = "group:pthread.h">
+         </FileRef>
+         <FileRef
+            location = "group:reparse.h">
+         </FileRef>
+         <FileRef
+            location = "group:utf-conv.c">
+         </FileRef>
+         <FileRef
+            location = "group:utf-conv.h">
+         </FileRef>
+         <FileRef
+            location = "group:version.h">
+         </FileRef>
+         <FileRef
+            location = "group:w32_buffer.c">
+         </FileRef>
+         <FileRef
+            location = "group:w32_buffer.h">
+         </FileRef>
+         <FileRef
+            location = "group:w32_crtdbg_stacktrace.c">
+         </FileRef>
+         <FileRef
+            location = "group:w32_crtdbg_stacktrace.h">
+         </FileRef>
+         <FileRef
+            location = "group:w32_stack.c">
+         </FileRef>
+         <FileRef
+            location = "group:w32_stack.h">
+         </FileRef>
+         <FileRef
+            location = "group:w32_util.c">
+         </FileRef>
+         <FileRef
+            location = "group:w32_util.h">
+         </FileRef>
+         <FileRef
+            location = "group:win32-compat.h">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:xdiff"
+         name = "xdiff">
+         <FileRef
+            location = "group:xdiff.h">
+         </FileRef>
+         <FileRef
+            location = "group:xdiffi.c">
+         </FileRef>
+         <FileRef
+            location = "group:xdiffi.h">
+         </FileRef>
+         <FileRef
+            location = "group:xemit.c">
+         </FileRef>
+         <FileRef
+            location = "group:xemit.h">
+         </FileRef>
+         <FileRef
+            location = "group:xhistogram.c">
+         </FileRef>
+         <FileRef
+            location = "group:xinclude.h">
+         </FileRef>
+         <FileRef
+            location = "group:xmacros.h">
+         </FileRef>
+         <FileRef
+            location = "group:xmerge.c">
+         </FileRef>
+         <FileRef
+            location = "group:xpatience.c">
+         </FileRef>
+         <FileRef
+            location = "group:xprepare.c">
+         </FileRef>
+         <FileRef
+            location = "group:xprepare.h">
+         </FileRef>
+         <FileRef
+            location = "group:xtypes.h">
+         </FileRef>
+         <FileRef
+            location = "group:xutils.c">
+         </FileRef>
+         <FileRef
+            location = "group:xutils.h">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:zstream.c">
+      </FileRef>
+      <FileRef
+         location = "group:zstream.h">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "group:ObjectiveGitFramework.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../libgit2">
+   </FileRef>
+   <FileRef
+      location = "group:Carthage/Checkouts/Nimble/Nimble.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Carthage/Checkouts/Quick/Quick.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Carthage/Checkouts/ZipArchive/ZipArchive.xcodeproj">
+   </FileRef>
+</Workspace>
